@@ -1,0 +1,5 @@
+jose perez,090001,user2.jpeg,100:200
+carlos mera,090002,user3.jpeg,300:300
+sofia ramos,090003,user1.jpeg,500:100
+veronica bazurot,090004,user1.jpeg,400:400
+jose serrano,090005,user2.jpeg,200:35
